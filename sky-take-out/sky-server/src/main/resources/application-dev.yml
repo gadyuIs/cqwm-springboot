@@ -1,0 +1,13 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: sky_take_out
+    username: root
+    password: 123456
+  alioss:
+    access-key-id: LTAI5tPwNBEffFJfZ7z9Dv6E
+    access-key-secret: VCtKo1Jq7qSDsOz78vuS16NFi0r09K
+    bucket-name: cqwm-haoyu
+    endpoint: oss-cn-beijing.aliyuncs.com
